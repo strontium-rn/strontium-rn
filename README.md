@@ -1,4 +1,7 @@
-<h1 align="center"><img src="machine-learning.png" width="30"> Aarya Pathak | Aspiring App Developer & Machine Learning Engineer 🖥️</h1>
+<h1 align="center">
+  <img src="machine-learning.png" width="30" style="vertical-align: text-bottom; margin-bottom: -20px;">
+  Aarya Pathak | Aspiring App Developer & Machine Learning Engineer 🖥️
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Passionate+App+Developer;Exploring+Machine+Learning;Learning+Adapting+Improvising&center=true&width=380&height=45">
