@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me
 
 
-Hello! I'm a passionate Computer Science student at **Kathmandu University, Nepal**, with a deep interest in **mobile app development using Flutter** and **machine learning**. I'm enthusiastic about building innovative applications and harnessing the power of AI for intelligent solutions.
+Hello! I'm a passionate sophomore pursuing Computer Science at **Kathmandu University, Nepal**, with a deep interest in **mobile app development using Flutter** and **machine learning**. I'm enthusiastic about building innovative applications and harnessing the power of AI for intelligent solutions.
 
 - 🎓 Currently pursuing a degree in Computer Science
 - 📱 Aspiring mobile app developer focused on Flutter and Dart
