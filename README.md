@@ -1,10 +1,21 @@
-<h1 align="center"><img src="deep-learning.png" width="40"> Aarya Pathak | Aspiring App Developer & Machine Learning Engineer 🖥️</h1>
+<h1 align="center"><img src="machine-learning.png" width="30"> Aarya Pathak | Aspiring App Developer & Machine Learning Engineer 🖥️</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Passionate+Godot+Game+Developer;Exploring+System+Engineering;Ready+for+New+Challenges&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Passionate+App+Developer;Exploring+Machine+Learning;Learning+Adapting+Improvising&center=true&width=380&height=45">
 </p>
 
-👨‍💻 I'm currently working on:<br>Developing a mobile application using Flutter, focused on creating a smooth and responsive user experience. Additionally, I’m working on an eye disease prediction model web application that leverages machine learning frameworks for accurate diagnosis. Alongside these projects, I’m engaging in multiple online courses to deepen my knowledge in machine learning and Flutter development.<br> 🤝I’m looking to collaborate on:<br>I am open to collaborating on projects that intersect AI/ML or mobile app development, especially in healthcare and education domains. If you are passionate about these areas and want to explore synergies, let’s connect!<br>🛠️ I’m looking for help with:<br>I’m seeking guidance and support in Flutter and mobile app development, particularly in building robust and scalable applications. Additionally, I’m looking for help with advancing my understanding of machine learning concepts and their practical applications in real-world projects.<br>🌱 I’m currently learning<br>I’m focused on learning Flutter to build dynamic mobile applications and exploring various machine learning frameworks to enhance my ability to develop intelligent solutions.<br>⚡ Fun fact<br>When I’m not coding, you can find me playing cricket or getting lost in a good book. I also enjoy exploring psycholinguistics and have a keen interest in understanding how the human brain processes language.
+## 👨‍💻 About Me
+
+
+Hello! I'm a passionate Computer Science student at **Kathmandu University, Nepal**, with a deep interest in **mobile app development using Flutter** and **machine learning**. I'm enthusiastic about building innovative applications and harnessing the power of AI for intelligent solutions.
+
+- 🎓 Currently pursuing a degree in Computer Science
+- 📱 Aspiring mobile app developer focused on Flutter and Dart
+- 🤖 Fascinated by machine learning models and their real-world applications
+- 🌱 Constantly learning and expanding my skillset in app development and AI/ML frameworks
+- 🤝 Eager to collaborate on exciting projects in healthcare and education, leveraging AI and mobile technologies
+- 💼 Actively seeking internships and entry-level opportunities in app development and machine learning
+- ⚡ **Fun fact**: When I’m not coding, you can find me playing cricket or diving into psycholinguistics to explore how the human brain processes language.
 
 
 ## 🌐 Socials:
