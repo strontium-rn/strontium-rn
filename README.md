@@ -1,4 +1,9 @@
-# 💫 About Me:
+<h1 align="center"><img src="deep-learning.png" width="40"> Aarya Pathak | Aspiring App Developer & Machine Learning Engineer 🖥️</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Passionate+Godot+Game+Developer;Exploring+System+Engineering;Ready+for+New+Challenges&center=true&width=380&height=45">
+</p>
+
 👨‍💻 I'm currently working on:<br>Developing a mobile application using Flutter, focused on creating a smooth and responsive user experience. Additionally, I’m working on an eye disease prediction model web application that leverages machine learning frameworks for accurate diagnosis. Alongside these projects, I’m engaging in multiple online courses to deepen my knowledge in machine learning and Flutter development.<br> 🤝I’m looking to collaborate on:<br>I am open to collaborating on projects that intersect AI/ML or mobile app development, especially in healthcare and education domains. If you are passionate about these areas and want to explore synergies, let’s connect!<br>🛠️ I’m looking for help with:<br>I’m seeking guidance and support in Flutter and mobile app development, particularly in building robust and scalable applications. Additionally, I’m looking for help with advancing my understanding of machine learning concepts and their practical applications in real-world projects.<br>🌱 I’m currently learning<br>I’m focused on learning Flutter to build dynamic mobile applications and exploring various machine learning frameworks to enhance my ability to develop intelligent solutions.<br>⚡ Fun fact<br>When I’m not coding, you can find me playing cricket or getting lost in a good book. I also enjoy exploring psycholinguistics and have a keen interest in understanding how the human brain processes language.
 
 
